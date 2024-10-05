@@ -1,0 +1,21 @@
+body{
+    background : url( "background.jpg");
+    
+    background-repeat: no-repeat;
+    background-position:left;
+    background-size: cover;
+
+
+}
+
+
+
+.text{
+    color:rgb(32, 30, 163) ;
+    text-decoration: underline;
+}
+
+.abc{
+
+float:left;
+}

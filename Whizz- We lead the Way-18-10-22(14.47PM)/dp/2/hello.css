@@ -1,0 +1,10 @@
+body
+{
+    background: url("abou.png") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-color: aqua;
+    background-position: center;
+
+}

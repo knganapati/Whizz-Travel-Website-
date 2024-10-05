@@ -1,0 +1,24 @@
+.dpa
+{
+    color: rgb(57, 68, 219);
+}
+
+body{
+
+    background-image: url('back.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  
+}
+
+.des
+{
+    color: rgba(25, 28, 216, 3);
+}
+
+
+.pick
+{
+    border: 5px rgb(0, 0, 0);
+}
